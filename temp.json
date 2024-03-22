@@ -1,0 +1,531 @@
+{
+  "location": {
+    "name": "London",
+    "region": "City of London, Greater London",
+    "country": "United Kingdom",
+    "lat": 51.52,
+    "lon": -0.11,
+    "tz_id": "Europe/London",
+    "localtime_epoch": 1711087797,
+    "localtime": "2024-03-22 6:09"
+  },
+  "current": {
+    "last_updated_epoch": 1711087200,
+    "last_updated": "2024-03-22 06:00",
+    "temp_c": 10,
+    "temp_f": 50,
+    "is_day": 1,
+    "condition": {
+      "text": "Overcast",
+      "icon": "//cdn.weatherapi.com/weather/64x64/day/122.png",
+      "code": 1009
+    },
+    "wind_mph": 9.4,
+    "wind_kph": 15.1,
+    "wind_degree": 240,
+    "wind_dir": "WSW",
+    "pressure_mb": 1018,
+    "pressure_in": 30.06,
+    "precip_mm": 0,
+    "precip_in": 0,
+    "humidity": 82,
+    "cloud": 100,
+    "feelslike_c": 8,
+    "feelslike_f": 46.4,
+    "vis_km": 10,
+    "vis_miles": 6,
+    "uv": 2,
+    "gust_mph": 12.6,
+    "gust_kph": 20.3
+  },
+  "forecast": {
+    "forecastday": [
+      {
+        "date": "2024-03-22",
+        "date_epoch": 1711065600,
+        "day": {
+          "maxtemp_c": 10.6,
+          "maxtemp_f": 51,
+          "mintemp_c": 6.1,
+          "mintemp_f": 42.9,
+          "avgtemp_c": 9.3,
+          "avgtemp_f": 48.8,
+          "maxwind_mph": 10.3,
+          "maxwind_kph": 16.6,
+          "totalprecip_mm": 0.66,
+          "totalprecip_in": 0.03,
+          "totalsnow_cm": 0,
+          "avgvis_km": 9.7,
+          "avgvis_miles": 6,
+          "avghumidity": 70,
+          "daily_will_it_rain": 1,
+          "daily_chance_of_rain": 88,
+          "daily_will_it_snow": 0,
+          "daily_chance_of_snow": 0,
+          "condition": {
+            "text": "Patchy rain nearby",
+            "icon": "//cdn.weatherapi.com/weather/64x64/day/176.png",
+            "code": 1063
+          },
+          "uv": 1
+        },
+        "astro": {
+          "sunrise": "05:58 AM",
+          "sunset": "06:17 PM",
+          "moonrise": "03:17 PM",
+          "moonset": "05:30 AM",
+          "moon_phase": "Waxing Gibbous",
+          "moon_illumination": 91,
+          "is_moon_up": 1,
+          "is_sun_up": 0
+        },
+        "hour": [
+          {
+            "condition": {},
+            "short_rad": 0.13,
+            "diff_rad": 0.06
+          },
+          {
+            "condition": {},
+            "short_rad": 0,
+            "diff_rad": 0
+          },
+          {
+            "condition": {},
+            "short_rad": 0,
+            "diff_rad": 0
+          },
+          {
+            "condition": {},
+            "short_rad": 0,
+            "diff_rad": 0
+          },
+          {
+            "condition": {},
+            "short_rad": 0,
+            "diff_rad": 0
+          },
+          {
+            "condition": {},
+            "short_rad": 0,
+            "diff_rad": 0
+          },
+          {
+            "condition": {},
+            "short_rad": 0,
+            "diff_rad": 0
+          },
+          {
+            "condition": {},
+            "short_rad": 2.8,
+            "diff_rad": 1.85
+          },
+          {
+            "condition": {},
+            "short_rad": 8.56,
+            "diff_rad": 5.61
+          },
+          {
+            "condition": {},
+            "short_rad": 11.36,
+            "diff_rad": 7.71
+          },
+          {
+            "condition": {},
+            "short_rad": 14.58,
+            "diff_rad": 10.09
+          },
+          {
+            "condition": {},
+            "short_rad": 18.54,
+            "diff_rad": 12.86
+          },
+          {
+            "condition": {},
+            "short_rad": 31.22,
+            "diff_rad": 20.48
+          },
+          {
+            "condition": {},
+            "short_rad": 191.96,
+            "diff_rad": 110.79
+          },
+          {
+            "condition": {},
+            "short_rad": 209.94,
+            "diff_rad": 119.1
+          },
+          {
+            "condition": {},
+            "short_rad": 209.74,
+            "diff_rad": 117.8
+          },
+          {
+            "condition": {},
+            "short_rad": 180.32,
+            "diff_rad": 101.57
+          },
+          {
+            "condition": {},
+            "short_rad": 174.74,
+            "diff_rad": 96.18
+          },
+          {
+            "condition": {},
+            "short_rad": 156.88,
+            "diff_rad": 85.01
+          },
+          {
+            "condition": {},
+            "short_rad": 1.18,
+            "diff_rad": 0.54
+          },
+          {
+            "condition": {},
+            "short_rad": 0.58,
+            "diff_rad": 0.27
+          },
+          {
+            "condition": {},
+            "short_rad": 0.4,
+            "diff_rad": 0.18
+          },
+          {
+            "condition": {},
+            "short_rad": 0.3,
+            "diff_rad": 0.14
+          },
+          {
+            "condition": {},
+            "short_rad": 0.24,
+            "diff_rad": 0.1
+          }
+        ]
+      },
+      {
+        "date": "2024-03-23",
+        "date_epoch": 1711152000,
+        "day": {
+          "maxtemp_c": 8.6,
+          "maxtemp_f": 47.5,
+          "mintemp_c": 3.8,
+          "mintemp_f": 38.9,
+          "avgtemp_c": 6.3,
+          "avgtemp_f": 43.4,
+          "maxwind_mph": 16.8,
+          "maxwind_kph": 27,
+          "totalprecip_mm": 1.67,
+          "totalprecip_in": 0.07,
+          "totalsnow_cm": 0,
+          "avgvis_km": 9.7,
+          "avgvis_miles": 6,
+          "avghumidity": 69,
+          "daily_will_it_rain": 1,
+          "daily_chance_of_rain": 86,
+          "daily_will_it_snow": 0,
+          "daily_chance_of_snow": 0,
+          "condition": {
+            "text": "Patchy rain nearby",
+            "icon": "//cdn.weatherapi.com/weather/64x64/day/176.png",
+            "code": 1063
+          },
+          "uv": 3
+        },
+        "astro": {
+          "sunrise": "05:55 AM",
+          "sunset": "06:19 PM",
+          "moonrise": "04:28 PM",
+          "moonset": "05:42 AM",
+          "moon_phase": "Waxing Gibbous",
+          "moon_illumination": 95,
+          "is_moon_up": 1,
+          "is_sun_up": 0
+        },
+        "hour": [
+          {
+            "condition": {},
+            "short_rad": 0.19,
+            "diff_rad": 0.09
+          },
+          {
+            "condition": {},
+            "short_rad": 0,
+            "diff_rad": 0
+          },
+          {
+            "condition": {},
+            "short_rad": 0,
+            "diff_rad": 0
+          },
+          {
+            "condition": {},
+            "short_rad": 0,
+            "diff_rad": 0
+          },
+          {
+            "condition": {},
+            "short_rad": 0,
+            "diff_rad": 0
+          },
+          {
+            "condition": {},
+            "short_rad": 0,
+            "diff_rad": 0
+          },
+          {
+            "condition": {},
+            "short_rad": 0,
+            "diff_rad": 0
+          },
+          {
+            "condition": {},
+            "short_rad": 42.48,
+            "diff_rad": 18.42
+          },
+          {
+            "condition": {},
+            "short_rad": 113.88,
+            "diff_rad": 41.12
+          },
+          {
+            "condition": {},
+            "short_rad": 188.44,
+            "diff_rad": 60.97
+          },
+          {
+            "condition": {},
+            "short_rad": 243.82,
+            "diff_rad": 84.49
+          },
+          {
+            "condition": {},
+            "short_rad": 292.26,
+            "diff_rad": 110.09
+          },
+          {
+            "condition": {},
+            "short_rad": 335.1,
+            "diff_rad": 129.53
+          },
+          {
+            "condition": {},
+            "short_rad": 520.18,
+            "diff_rad": 237.82
+          },
+          {
+            "condition": {},
+            "short_rad": 529.74,
+            "diff_rad": 217.66
+          },
+          {
+            "condition": {},
+            "short_rad": 515.72,
+            "diff_rad": 192.19
+          },
+          {
+            "condition": {},
+            "short_rad": 475.22,
+            "diff_rad": 174.76
+          },
+          {
+            "condition": {},
+            "short_rad": 426.7,
+            "diff_rad": 151.97
+          },
+          {
+            "condition": {},
+            "short_rad": 368.19,
+            "diff_rad": 131.41
+          },
+          {
+            "condition": {},
+            "short_rad": 1.58,
+            "diff_rad": 0.7
+          },
+          {
+            "condition": {},
+            "short_rad": 0.78,
+            "diff_rad": 0.35
+          },
+          {
+            "condition": {},
+            "short_rad": 0.52,
+            "diff_rad": 0.23
+          },
+          {
+            "condition": {},
+            "short_rad": 0.4,
+            "diff_rad": 0.18
+          },
+          {
+            "condition": {},
+            "short_rad": 0.32,
+            "diff_rad": 0.14
+          }
+        ]
+      },
+      {
+        "date": "2024-03-24",
+        "date_epoch": 1711238400,
+        "day": {
+          "maxtemp_c": 11.9,
+          "maxtemp_f": 53.5,
+          "mintemp_c": 5.4,
+          "mintemp_f": 41.7,
+          "avgtemp_c": 8.2,
+          "avgtemp_f": 46.7,
+          "maxwind_mph": 15.7,
+          "maxwind_kph": 25.2,
+          "totalprecip_mm": 0.11,
+          "totalprecip_in": 0,
+          "totalsnow_cm": 0,
+          "avgvis_km": 10,
+          "avgvis_miles": 6,
+          "avghumidity": 62,
+          "daily_will_it_rain": 1,
+          "daily_chance_of_rain": 86,
+          "daily_will_it_snow": 0,
+          "daily_chance_of_snow": 0,
+          "condition": {
+            "text": "Patchy rain nearby",
+            "icon": "//cdn.weatherapi.com/weather/64x64/day/176.png",
+            "code": 1063
+          },
+          "uv": 3
+        },
+        "astro": {
+          "sunrise": "05:53 AM",
+          "sunset": "06:21 PM",
+          "moonrise": "05:38 PM",
+          "moonset": "05:52 AM",
+          "moon_phase": "Waxing Gibbous",
+          "moon_illumination": 98,
+          "is_moon_up": 1,
+          "is_sun_up": 0
+        },
+        "hour": [
+          {
+            "condition": {},
+            "short_rad": 0.26,
+            "diff_rad": 0.12
+          },
+          {
+            "condition": {},
+            "short_rad": 0,
+            "diff_rad": 0
+          },
+          {
+            "condition": {},
+            "short_rad": 0,
+            "diff_rad": 0
+          },
+          {
+            "condition": {},
+            "short_rad": 0,
+            "diff_rad": 0
+          },
+          {
+            "condition": {},
+            "short_rad": 0,
+            "diff_rad": 0
+          },
+          {
+            "condition": {},
+            "short_rad": 0,
+            "diff_rad": 0
+          },
+          {
+            "condition": {},
+            "short_rad": 0,
+            "diff_rad": 0
+          },
+          {
+            "condition": {},
+            "short_rad": 38.94,
+            "diff_rad": 18.08
+          },
+          {
+            "condition": {},
+            "short_rad": 87.58,
+            "diff_rad": 40.25
+          },
+          {
+            "condition": {},
+            "short_rad": 147.52,
+            "diff_rad": 63.61
+          },
+          {
+            "condition": {},
+            "short_rad": 234.5,
+            "diff_rad": 73.04
+          },
+          {
+            "condition": {},
+            "short_rad": 307.54,
+            "diff_rad": 79.07
+          },
+          {
+            "condition": {},
+            "short_rad": 365.84,
+            "diff_rad": 83.04
+          },
+          {
+            "condition": {},
+            "short_rad": 660.76,
+            "diff_rad": 107.65
+          },
+          {
+            "condition": {},
+            "short_rad": 632.92,
+            "diff_rad": 116.42
+          },
+          {
+            "condition": {},
+            "short_rad": 574.62,
+            "diff_rad": 135.44
+          },
+          {
+            "condition": {},
+            "short_rad": 502.04,
+            "diff_rad": 135.49
+          },
+          {
+            "condition": {},
+            "short_rad": 434.26,
+            "diff_rad": 124.06
+          },
+          {
+            "condition": {},
+            "short_rad": 374.58,
+            "diff_rad": 108.66
+          },
+          {
+            "condition": {},
+            "short_rad": 2.06,
+            "diff_rad": 0.95
+          },
+          {
+            "condition": {},
+            "short_rad": 1.02,
+            "diff_rad": 0.48
+          },
+          {
+            "condition": {},
+            "short_rad": 0.68,
+            "diff_rad": 0.32
+          },
+          {
+            "condition": {},
+            "short_rad": 0.52,
+            "diff_rad": 0.24
+          },
+          {
+            "condition": {},
+            "short_rad": 0.42,
+            "diff_rad": 0.19
+          }
+        ]
+      }
+    ]
+  }
+}
